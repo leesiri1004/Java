@@ -1,8 +1,10 @@
 package sub3;
 
+// final 클래스로 선언하면 더 이상 상속을 할 수 없다.
 public class BBB extends AAA {
 
-	public void method1() {
+	@Override
+	public final void method1() {
 		System.out.println("BBB - method1...");
 	}
 	
