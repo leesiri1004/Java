@@ -19,7 +19,7 @@ class SubFinalMethod extends FinalMethod {
 		System.out.println("method() 재정의");
 	}
 	
-	public void finalMethod() { // 재정의 불가
-		System.out.println("finalMethod() 재정의");
-	}
+	// public void finalMethod() { // 재정의 불가
+	//	System.out.println("finalMethod() 재정의");
+	// }
 }
