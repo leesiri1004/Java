@@ -10,8 +10,8 @@ public class JavaTest9 {
 	public static void main(String[] args) {
 		JavaTest9 here = new JavaTest9();
 
-		Circle circle = new Circle();
-		Triangle triangle = new Triangle();
+		Circle circle = new Circle(); // Shape circle (다형성 적용 가능)
+		Triangle triangle = new Triangle(); // Shape triangle (다형성 적용 가능)
 
 		here.draw(circle);
 		here.draw(triangle);

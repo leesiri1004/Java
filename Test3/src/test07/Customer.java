@@ -1,11 +1,11 @@
 package test07;
 
 public class Customer {
-	private int id;
-	private String name;
-	public String grade;
-	public int point;
-	public double pointRatio;
+	protected int id;
+	protected String name;
+	protected String grade;
+	protected int point;
+	protected double pointRatio;
 	
 	public Customer(int id, String name) {
 		this.id = id;

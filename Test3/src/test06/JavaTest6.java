@@ -24,6 +24,6 @@ class Rent {
 class Landlord extends Rent {
 	public void getMoney() {
 		System.out.println("건물주 입니다.");
-		super.payment();
+		payment();
 	}
 }
