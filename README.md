@@ -6,7 +6,7 @@ Java 수업예제
 ## Ch02. 자바 설치
 
 ## Ch03. 변수와 자료형
-> sub1. 변수 실습하기
+> sub1. 변수 실습하기   
 > sub2. 연산자 실습하기
 
 ## Ch04. Java Hello World 실습
